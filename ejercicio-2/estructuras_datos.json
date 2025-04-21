@@ -1,0 +1,28 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Juan Pérez",
+            "correo": "juan@email.com"
+        },
+        {
+            "id": 2,
+            "nombre": "Ana López",
+            "correo": "ana@email.com"
+        }
+    ],
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Laptop",
+            "precio": 1200.50,
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "nombre": "Teclado",
+            "precio": 45.99,
+            "stock": 25
+        }
+    ]
+}

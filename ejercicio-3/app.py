@@ -4,13 +4,13 @@ app = Flask(__name__)
 
 
 productos = [
-    {"id": 1, "nombre": "Laptop", "precio": 1200},
-    {"id": 2, "nombre": "Mouse", "precio": 25}
+    {"id": 1, "nombre": "Manzana", "precio": 20},
+    {"id": 2, "nombre": "Batata", "precio": 15}
 ]
 
 usuarios = [
-    {"id": 1, "nombre": "Luis", "rol": "Administrador"},
-    {"id": 2, "nombre": "Samuel", "rol": "Usuario"}
+    {"id": 1, "nombre": "Angel", "rol": "Administrador"},
+    {"id": 2, "nombre": "Lorenzo", "rol": "Usuario"}
 ]
 
 

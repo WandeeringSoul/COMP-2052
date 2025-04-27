@@ -2,8 +2,8 @@ from flask_login import UserMixin
 
 
 usuarios = {
-    'juan': {'id': '1', 'username': 'juan', 'password': '1234'},
-    'maria': {'id': '2', 'username': 'maria', 'password': 'abcd'}
+    'Luis': {'id': '1', 'username': 'Luis', 'password': '1234'},
+    'Samuel': {'id': '2', 'username': 'Samuel', 'password': 'abcd'}
 }
 
 

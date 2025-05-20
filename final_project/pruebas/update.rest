@@ -1,0 +1,10 @@
+### Editar libro (PUT)
+PUT http://localhost:5000/libros/4
+Content-Type: application/json
+
+{
+  "titulo": "Libro actualizado",
+  "descripcion": "Nueva descripción actualizada",
+  "autor": "Jane Doe",
+  "anio_publicacion": 2025
+}
